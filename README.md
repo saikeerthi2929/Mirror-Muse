@@ -31,7 +31,7 @@ Built for the **emotionally intelligent digital age**.
 
 | Voice + Emotion Detection | LLM Prompt → Image | Full Interaction |
 |---------------------------|--------------------|------------------|
-| ![](media/voice_recording.gif) | ![](media/image_gen.gif) | ![](media/full_flow.gif) |
+| ![]("C:\Users\KEERTHI\Downloads\6ba174bf48e9b6dc8d8bd19d13c9caa9.gif") | ![](media/image_gen.gif) | ![](media/full_flow.gif) |
 
 ---
 
@@ -46,5 +46,5 @@ Built for the **emotionally intelligent digital age**.
 
 ---
 
-## 🧩 Directory Structure
+
 
