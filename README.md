@@ -1,50 +1,53 @@
+<h1 align="center">🎨 Mirror Muse</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎭+Mirror+Muse+AI;Multimodal+Creative+Companion;&center=true&size=26">
+  <img src="media/mirror_muse_banner.gif" width="800" alt="Mirror Muse Banner"/>
 </p>
 
 <p align="center">
-  <img src="media/mirrormuse_banner.gif" alt="Mirror Muse Banner" width="700"/>
+  <b>AI-powered emotion-aware art generator</b> built with <code>Streamlit</code>, <code>Hugging Face</code>, and <code>Python</code>.
+  <br><br>
+  Speak. Feel. Create. Let your emotions paint your world.
 </p>
 
 ---
 
-## 🧠 Mirror Muse - Multimodal Creative Assistant
+## 🚀 Live Demo
 
-Mirror Muse is a next-gen AI project combining **voice input**, **emotion-aware vision**, **LLMs**, and **diffusion models** to generate *personalized art, empathetic responses, and real-time feedback*.
+> 🎬 Click to experience Mirror Muse in action  
+> ⚡ `streamlit run main.py`
 
-Built for the **emotionally intelligent digital age**.
-
----
-
-## 🚀 Features
-
-- 🎙 **Voice Recording & Transcription** (via Whisper)
-- 📷 **Facial Emotion Detection** using DeepFace
-- 💬 **LLM Prompt Chaining** with empathy scoring
-- 🎨 **AI Art Generation** with Stable Diffusion
-- 🌐 **Streamlit UI** for real-time interaction
-- 📊 **Logging & Session Evaluation**
+<p align="center">
+  <img src="media/demo.gif" width="700"/>
+</p>
 
 ---
 
-## 📸 Demo (Add Your GIFs Below)
+## 🧠 What is Mirror Muse?
 
-| Voice + Emotion Detection | LLM Prompt → Image | Full Interaction |
-|---------------------------|--------------------|------------------|
-| ![]("C:\Users\KEERTHI\Downloads\6ba174bf48e9b6dc8d8bd19d13c9caa9.gif") | ![](media/image_gen.gif) | ![](media/full_flow.gif) |
+**Mirror Muse** is a futuristic AI app that listens to your voice, understands your emotions, and creates stunning AI-generated art based on your mood.
 
----
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?logo=streamlit)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-API-yellow?logo=huggingface)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-green?logo=openai)
-![StableDiffusion](https://img.shields.io/badge/StableDiffusion-ImageGen-purple?logo=diffusionbee)
-![DeepFace](https://img.shields.io/badge/DeepFace-Emotion-orange?logo=opencv)
+✨ Built for artists, creators, and dreamers who want their **feelings visualized**.
 
 ---
 
+## 🔧 Tech Stack
+
+| Layer | Tools |
+|-------|-------|
+| 🗣️ Voice Input | `sounddevice`, `scipy`, `streamlit` |
+| 🧠 Emotion Detection | Pre-trained LLMs from `Hugging Face Transformers` |
+| 🎨 Art Generation | `Diffusers`, `Stable Diffusion`, `Transformers` |
+| 🧩 App Framework | `Streamlit`, `Python` |
+| 🌐 Hosting (optional) | `Streamlit Cloud` / `Render` / `Hugging Face Spaces` |
+
+---
+
+## 🛠️ Features
+
+✅ Real-time audio recording  
+✅ Voice-to-emotion classification using LLM  
+✅ Emotion-based prompt crafting  
+✅ AI art generation based on your inner vibe  
+✅ Minimalistic Streamlit UI with futuristic feel  
 
 
